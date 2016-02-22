@@ -1,0 +1,22 @@
+.container {
+  height: 100%;
+  width: 100%;
+  text-align:center;
+}
+
+a {
+  text-decoration: none;
+  color: red;
+}
+
+h1 {
+  margin-top: 33%;
+  font-size: 200px;
+  text-shadow: 2px 2px 20px red;
+  font-family: 'Oswald', sans-serif;
+}
+
+h2 {
+  margin-top: 15%;
+  font-family: 'Oswald', sans-serif;
+}
